@@ -1,1 +1,1 @@
-# AtividadesTap
+# Script para compactar ou desconpactar um arquivo no formato zip
